@@ -1,0 +1,7 @@
+C:\Users\Gustavo.snsantos\source\repos\C-SHARP-PRIMEIRA-AULA\C-SHARP-SEGUNDA-AULA\C-SHARP-SEGUNDA-AULA\bin\Debug\C-SHARP-SEGUNDA-AULA.exe.config
+C:\Users\Gustavo.snsantos\source\repos\C-SHARP-PRIMEIRA-AULA\C-SHARP-SEGUNDA-AULA\C-SHARP-SEGUNDA-AULA\bin\Debug\C-SHARP-SEGUNDA-AULA.exe
+C:\Users\Gustavo.snsantos\source\repos\C-SHARP-PRIMEIRA-AULA\C-SHARP-SEGUNDA-AULA\C-SHARP-SEGUNDA-AULA\bin\Debug\C-SHARP-SEGUNDA-AULA.pdb
+C:\Users\Gustavo.snsantos\source\repos\C-SHARP-PRIMEIRA-AULA\C-SHARP-SEGUNDA-AULA\C-SHARP-SEGUNDA-AULA\obj\Debug\C-SHARP-2-AULA.csproj.AssemblyReference.cache
+C:\Users\Gustavo.snsantos\source\repos\C-SHARP-PRIMEIRA-AULA\C-SHARP-SEGUNDA-AULA\C-SHARP-SEGUNDA-AULA\obj\Debug\C-SHARP-2-AULA.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo.snsantos\source\repos\C-SHARP-PRIMEIRA-AULA\C-SHARP-SEGUNDA-AULA\C-SHARP-SEGUNDA-AULA\obj\Debug\C-SHARP-SEGUNDA-AULA.exe
+C:\Users\Gustavo.snsantos\source\repos\C-SHARP-PRIMEIRA-AULA\C-SHARP-SEGUNDA-AULA\C-SHARP-SEGUNDA-AULA\obj\Debug\C-SHARP-SEGUNDA-AULA.pdb
