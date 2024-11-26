@@ -1,0 +1,10 @@
+C:\Users\gustavo.snsantos\source\repos\AulaApi\AulaApi\obj\Debug\AulaApi.csproj.AssemblyReference.cache
+C:\Users\gustavo.snsantos\source\repos\AulaApi\AulaApi\obj\Debug\AulaApi.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.snsantos\source\repos\AulaApi\AulaApi\bin\Debug\AulaApi.exe.config
+C:\Users\gustavo.snsantos\source\repos\AulaApi\AulaApi\bin\Debug\AulaApi.exe
+C:\Users\gustavo.snsantos\source\repos\AulaApi\AulaApi\bin\Debug\AulaApi.pdb
+C:\Users\gustavo.snsantos\source\repos\AulaApi\AulaApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gustavo.snsantos\source\repos\AulaApi\AulaApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gustavo.snsantos\source\repos\AulaApi\AulaApi\obj\Debug\AulaApi.csproj.Up2Date
+C:\Users\gustavo.snsantos\source\repos\AulaApi\AulaApi\obj\Debug\AulaApi.exe
+C:\Users\gustavo.snsantos\source\repos\AulaApi\AulaApi\obj\Debug\AulaApi.pdb
