@@ -1,0 +1,7 @@
+C:\Users\gustavo.snsantos\source\repos\loja_roupa\loja_roupa\obj\Debug\loja_roupa.csproj.AssemblyReference.cache
+C:\Users\gustavo.snsantos\source\repos\loja_roupa\loja_roupa\obj\Debug\loja_roupa.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.snsantos\source\repos\loja_roupa\loja_roupa\bin\Debug\loja_roupa.exe.config
+C:\Users\gustavo.snsantos\source\repos\loja_roupa\loja_roupa\bin\Debug\loja_roupa.exe
+C:\Users\gustavo.snsantos\source\repos\loja_roupa\loja_roupa\bin\Debug\loja_roupa.pdb
+C:\Users\gustavo.snsantos\source\repos\loja_roupa\loja_roupa\obj\Debug\loja_roupa.exe
+C:\Users\gustavo.snsantos\source\repos\loja_roupa\loja_roupa\obj\Debug\loja_roupa.pdb
