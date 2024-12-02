@@ -1,4 +1,5 @@
 ﻿using loja_roupa;
+using Roupabox;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,11 +10,11 @@ namespace RoupaBox
 {
     internal class ExibirMenu
     {
-        public void Menu(Produtos varPro)
+        public void Menu(Produtos varPro, Clientes varCli)
 
-        { 
-
-            List<produtoCad>listaP = new List<produtoCad>();
+        {
+            List<produtoCad> listaP = new List<produtoCad>();
+            List<clienteCad> listac = new List<clienteCad>();    
             Console.WriteLine("\nDigite 0 para sair");
             Console.WriteLine("\nDigite 1 para cadastro de clientes");
             Console.WriteLine("\nDigite 2 para listar clientes");
@@ -32,7 +33,7 @@ namespace RoupaBox
 
                 case 1:
 
-                    Console.WriteLine("");
+                    varCli.cadCliente();
                     break;
 
                 case 2:
@@ -46,10 +47,10 @@ namespace RoupaBox
                     break;
 
                 case 4:
+                    varPro.ListaProdutos(); 
 
-                    Console.WriteLine("");
                     break;
-                    
+
             }
         }
     }

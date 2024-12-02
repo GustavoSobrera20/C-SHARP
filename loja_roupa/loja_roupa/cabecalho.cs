@@ -57,6 +57,8 @@ namespace RoupaBox
 
             Console.ResetColor();
 
+            ExibirMenu menu = new ExibirMenu();
+
         }
 
     }

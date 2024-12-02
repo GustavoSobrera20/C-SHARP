@@ -1,4 +1,5 @@
 ﻿using loja_roupa;
+using Roupabox;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,10 +16,10 @@ namespace RoupaBox
             varcabecalho.exibir_cabecalho();
 
             Produtos varPro = new Produtos();
-            clientes varCli = new clientes();
+            Clientes varCli = new Clientes();
 
             ExibirMenu variavelMenu = new ExibirMenu();
-            variavelMenu.Menu(varPro);
+            variavelMenu.Menu(varPro, varCli);
 
  
 
