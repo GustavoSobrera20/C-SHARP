@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formulario.aula2", "formulario.aula2\formulario.aula2.csproj", "{93F78797-5D67-4D6C-B095-B364C7512D75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93F78797-5D67-4D6C-B095-B364C7512D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F78797-5D67-4D6C-B095-B364C7512D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F78797-5D67-4D6C-B095-B364C7512D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F78797-5D67-4D6C-B095-B364C7512D75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11882A6D-86B0-4158-92E8-476762B61C2F}
+	EndGlobalSection
+EndGlobal
